@@ -1,0 +1,11 @@
+package tutorial.coravint.Items;
+
+public class DsrtBowBase extends AlchemyItem{
+	public DsrtBow(){
+		super();
+		setMaxStackSize(64);
+		setUnlocalizedName("shotgun");
+		setTextureName("alexmodid:battery");
+		setLevel(3);
+	}
+}

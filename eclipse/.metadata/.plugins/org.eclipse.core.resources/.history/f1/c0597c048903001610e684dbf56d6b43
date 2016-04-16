@@ -1,0 +1,19 @@
+package tutorial.coravint.Items;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModItems{
+	
+	
+	public static void init(){
+		initializeItem();
+		registerItem();
+	}
+	public static void initializeItem(){
+		Sword
+	}
+	
+	public static void registerItem(){
+		System.out.println("Registering Alchemies");
+	}
+}
