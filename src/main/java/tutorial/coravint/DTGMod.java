@@ -10,7 +10,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 @Mod(modid = DTGMod.MODID, version = DTGMod.VERSION)
 public class DTGMod
 {
-    public static final String MODID = "DTGModII";
+    public static final String MODID = "dtgmodii";
     public static final String VERSION = "1.0";
     
     @EventHandler

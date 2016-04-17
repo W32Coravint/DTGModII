@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="tutorial.coravint.Items.ModItems"/>
 <fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemBow"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.projectile.EntityArrow"/>
 </qualifiedTypeNameHistroy>
